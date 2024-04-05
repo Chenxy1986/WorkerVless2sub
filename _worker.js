@@ -25,7 +25,7 @@ let addressesnotls = [
 'time.is:80#cxy优选域名',
 'icook.hk:80#cxy优选域名',
 'icook.tw:80#cxy优选域名',
-'ip.sb':80#cxy优选域名',
+'ip.sb:80#cxy优选域名',
 'japan.com:80#cxy优选域名',
 'malaysia.com:80#cxy优选域名',
 'russia.com:80#cxy优选域名',
